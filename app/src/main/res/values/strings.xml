@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="choose_pic">选择图片</string>
+    <string name="back_fir">返回烟花页</string>
+    <string name="choose_vid">选择视频</string>
+    <string name="setting">预览壁纸</string>
+    <string name="wallpaper_description">壁纸</string>
+</resources>
